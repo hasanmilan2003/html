@@ -1,0 +1,7 @@
+@font-face{
+    font-family: sahel;
+    src:url(b/Sahel.woff) format('woff');
+}
+*{
+    font-family: "sahel","b_yekan","Tahoma";
+}
